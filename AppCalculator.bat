@@ -1,2 +1,1 @@
 python Calculator.py
-pause
